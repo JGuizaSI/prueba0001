@@ -1,0 +1,24 @@
+//Ejemplo Estructura cíclica "hacer mientras"
+
+//@author JGuiza
+
+public class ClaHolaMundo {
+
+    /*Este ejercicio contiene la declaracion de una variable tipo texto
+     * denominada mensaje con el valor "hola mundo" y la salida de este
+     * ejercicio es el mensaje que se declaro
+     */
+    
+    public static void main(String[] args) {
+        /* Declaracion de la variable mensaje y asignación del valor 
+        "Hola Mundo" */
+        
+     String mensaje= "¡Hola Mundo! Soy JGuiza";
+        /*impresión del valor de la variable mensaje, 
+        *confirmar si printIn la I debe ser l - Confirmado es la letra 
+        (L minuscula)*/
+        
+    System.out.println(mensaje);
+    }
+    //Fin de la clase
+}
